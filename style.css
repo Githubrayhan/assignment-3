@@ -1,0 +1,24 @@
+footer {
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    padding: 10px;
+}
+
+span a {
+    text-decoration: none;
+    color: gray;
+    padding: 12px;
+}
+
+.socal-link {
+    margin-top: 50px;
+}
+
+.socal-link a {
+    color: #ffffff;
+
+    padding: 10px;
+
+}
